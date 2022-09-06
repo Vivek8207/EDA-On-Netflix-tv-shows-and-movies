@@ -1,1 +1,1 @@
-# EDA-On-Netflixt-v-shows-and-movies
+# EDA-On-Netflix-tv-shows-and-movies
